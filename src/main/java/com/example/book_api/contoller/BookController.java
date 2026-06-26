@@ -14,7 +14,11 @@ import com.example.book_api.model.Book;
 import com.example.book_api.service.BookService;
 
 @Controller
+<<<<<<< HEAD
 public class BookController {  //teas
+=======
+public class BookController {   //test
+>>>>>>> 827166a63569e425c855dd407ce637c5d15fd900
 
     private final BookService bookService;
 
