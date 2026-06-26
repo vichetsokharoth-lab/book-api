@@ -5,5 +5,5 @@ resources:
   - namespace.yaml
 
 images:
-  - name: vichetsokharoth/book-api
+  - name: vichetsokharoth-lab/book-api
     newTag: latest
